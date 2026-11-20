@@ -6,8 +6,8 @@
 **Student ID:** BSCCS/2025/67976  
 **Course:** BIT 2118 — Scientific Computing  
 **Assignment:** Group Work — Tasks 02–20  
-**Submission date:** 11 November 2026  
-**GitHub repository:** https://github.com/Mayen-Lual/Scientific_computing-  
+**Submission date:** 20 November 2026  
+**GitHub repository:** GitHub repository: https://github.com/lualmayen024-a11y/Scientific_computing
 **Branch:** `main`  
 **Reference commit:** `ac9d7dc`  
 **Release:** `v1.0.0` — create and verify this tag before describing it as a published release.
